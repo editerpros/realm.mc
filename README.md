@@ -1,40 +1,15 @@
-UltraForge: Enhanced Survival Modpack
+Survival-OneBlock Multiplayer
+Survival-OneBlock Multiplayer is a survival modpack made by Editerpro in which you stand on a lonely block floating in the void. You can repeatedly mine the same block, giving you basic materials that slowly improve. In this modpack, you spawn on a block that floats above the void. The Block is infinite, and you pass through different phases based on different biomes. This modpack is full of adventure. This modpack allows multiplayer.
 
-UltraForge is a lightweight but feature-rich Minecraft survival enhancement modpack designed for smoother gameplay, better visuals, smarter mobs, improved progression, and an expanded world—without losing the classic vanilla feel. Perfect for both casual players and long-term worlds.
+This modpack is for expanding your OneBlock experience!
 
-✨ Features
+Most striking features of the modpack:
 
-⚔ Enhanced Combat & Smarter Mobs
+Custom Map (OneBlock by Pale Garden) 
+Animated entities
+Mic for talking to friends in multiplayer
+And much more, download to discover the rest! 
 
-🌍 New Biomes, Structures & World Variety
+PC requirements:
 
-🏹 Improved Progression & Balanced Gameplay
-
-💎 Performance Optimisations for Low/Medium PCs
-
-🎨 Better Visuals & UI Improvements
-
-🛠 Quality-of-Life Tweaks (Inventory, Crafting, Tools)
-
-📦 Installation
-
-Install CurseForge Launcher.
-
-Search for UltraForge.
-
-Click Install and launch the modpack.
-
-🔧 Source Code / Config
-
-All configs and pack files are included inside the modpack.
-To upload your own source:
-
-Export the modpack using the CurseForge app (Export Profile).
-
-Upload the .zip in the "Files" → "Upload" section on CurseForge.
-
-Include this README.md in the pack’s /overrides/ or repository if hosting on GitHub.
-
-📬 Support
-
-Feel free to request new features or report issues on the project page.
+You need at least 3G of RAM allocated in your Minecraft.
